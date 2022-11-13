@@ -1,0 +1,8 @@
+# created by virtualenv automatically
+.venv
+/pythonProject/.idea 
+venv
+Include
+Lib
+Scripts
+    
