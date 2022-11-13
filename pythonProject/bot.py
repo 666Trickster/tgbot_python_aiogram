@@ -3,7 +3,7 @@ import time
 
 from aiogram import Bot, Dispatcher, executor, types
 
-TOKEN = '5593909892:AAFwRfgAODy4dowDVBT67ZTpLLdxjWr2lpM'
+TOKEN = ''
 MSG = 'Программировал ли ты сегодня, {}?'
 
 bot = Bot(token=TOKEN)
